@@ -1,0 +1,7 @@
+{
+  "name": "Altaland Leave Management System",
+  "description": "An intelligent leave management system for Altaland Developers Inc., powered by Gemini. It simplifies employee leave requests with AI-driven features like a policy chatbot, voice-based requests, trend analysis, and more, enhancing efficiency for both employees and HR teams.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
